@@ -95,6 +95,37 @@
 .call-h5 a:hover {
   color: var(--color2);
 }
+
+.mobile-menu{
+  position: absolute;
+  left: -300px;
+  top: 0;
+  height: 100vh;
+  background-color: #123821;
+  padding: 15px;
+  width: 300px;
+  transition: all 0.3s ease-in-out;
+  z-index: 99;
+}
+.mobile-menu a{
+  display: block;
+  text-decoration: none;
+  font-size: 18px;
+  color: #ddd;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 10px;
+  transition: all 0.2s ease-in-out;
+}
+.mobile-menu a:hover{
+  color: #274dad;
+}
+.cancel-btn{
+  font-size: 18px;
+  color: #fff;
+}
+
+
 .hero-content {
   padding: 70px 0 230px 0;
 }

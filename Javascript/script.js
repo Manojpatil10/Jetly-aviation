@@ -30,4 +30,14 @@ $(document).ready(function(){
       }
     }
   });
+
+
+
+  $(".menu").click(function () {
+    $(".mobile-menu").css({ "left": "0px" });
+  });
+
+  $(".cancel-btn").click(function () {
+    $(".mobile-menu").css({ "left": "-300px" });
+  });
 });
