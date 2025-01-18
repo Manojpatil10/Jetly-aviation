@@ -1,0 +1,2 @@
+An Aviation Website is a dynamic, responsive platform built with HTML5, CSS3, and JavaScript. It provides flight schedules, destination details, and travel policies, offering a user-friendly experience. The website leverages Owl Carousel for smooth image transitions, ensuring an engaging and visually appealing interface across all devices.
+Visit Project : https://manojpatil10.github.io/Jetly-aviation/
